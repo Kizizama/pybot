@@ -17,9 +17,9 @@
 
 ## Проект состоит из:
 > Database
-
+>
 >Tg bot
-
+>
 > python 3.10+
 
 ## Файл ```requirements.txt```:
