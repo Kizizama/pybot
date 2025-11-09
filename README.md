@@ -1,13 +1,13 @@
 ## Инструменты для реализации:
 > Tg Bot
-
+>
 > SQL
 
 ## Проект состоит из:
 > Database
-
+>
 > pyTelegramBotAPI
-
+>
 > python 3.10+
 
 ## План:
