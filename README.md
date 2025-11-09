@@ -24,11 +24,9 @@
 
 ## Файл ```requirements.txt```:
 ```
-pyTelegramBotAPI
+pyTelegramBotAPI==4.15.2
 
-sqlalchemy
-
-alembic
+sqlalchemy==2.0.23
 
 python-dotenv
 ```
