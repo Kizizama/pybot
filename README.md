@@ -11,13 +11,24 @@
 ***4. Бот должен предоставлять простой и интуитивно понятный интерфейс для студентов.***
 
 ## Инструменты для реализации:
-> Tg Bot
+> pyTelegramBotAPI
 >
-> SQL
+> SQLite/PostgreSQL (SQLAlchemy)
 
 ## Проект состоит из:
 > Database
->
-> pyTelegramBotAPI
->
+
+>Tg bot
+
 > python 3.10+
+
+## Файл ```requirements.txt```:
+```
+pyTelegramBotAPI
+
+sqlalchemy
+
+alembic
+
+python-dotenv
+```
